@@ -109,3 +109,6 @@ Admin panel for managing users and rides.
 This project is a great demonstration of combining location services, real-time databases, and map-based UI to build modern, scalable, and interactive mobile applications. It’s perfect for showcasing skills in Android development, Firebase integration, and map-based service apps.
 
 # OUTPUT OF TASK
+<img width="646" height="774" alt="Image" src="https://github.com/user-attachments/assets/c6757ac1-a4df-4b02-a9bd-5a33d7f3482c" />
+<img width="401" height="809" alt="Image" src="https://github.com/user-attachments/assets/a645343f-5fa9-4feb-96eb-fc9b50e8089f" />
+<img width="1920" height="857" alt="Image" src="https://github.com/user-attachments/assets/bd5954ee-0e53-4ed6-a426-7015cfca64e4" />
